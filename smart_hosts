@@ -1,3 +1,21 @@
+# Section Start: Adobe
+127.0.0.1	activate.adobe.com
+127.0.0.1	practivate.adobe.com
+127.0.0.1	ereg.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	hl2rcv.adobe.com
+# Section End: Adobe
+
 # Section Start: facebook
 31.13.68.33 star.c10r.facebook.com
 23.42.82.110 s-static.ak.facebook.com
@@ -81,7 +99,14 @@
 98.139.235.135 bf1.farm7.staticflickr.com
 98.138.250.88 ne1.farm7.staticflickr.com
 # Section End: flickr
-#freeandopen
+#github
+https://help.github.com/articles/why-did-i-get-redirected-to-this-page
+# 207.97.227.239 github.com
+# 65.74.177.129 www.github.com
+# 207.97.227.252 nodeload.github.com
+207.97.227.243 raw.github.com
+204.232.175.78 documentcloud.github.com
+204.232.175.78 pages.github.com#freeandopen
 
 #update 20131212
 
@@ -616,15 +641,6 @@
 74.125.128.95 translate.googleapis.com
 74.125.128.95 www.googleapis.com
 # Section End: google-apis(us)
-
-
-
-
-
-
-
-
-
 
 # Section Start: others
 59.151.106.253 operachina.com
